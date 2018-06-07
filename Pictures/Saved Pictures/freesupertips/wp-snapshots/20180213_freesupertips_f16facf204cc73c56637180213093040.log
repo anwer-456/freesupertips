@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2018-02-13 9:30 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.32
+WORDPRESS:	4.9.4
+PHP INFO:	5.6.30 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (1024M default) 
+MEMORY STACK: 30.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from /usr/bin/mysqldump 
+TABLES: total:13 | filtered:0 | create:13 
+SQL CREATED: 20180213_freesupertips_f16facf204cc73c56637180213093040_database.sql 
+SQL FILE SIZE: 2.82MB (2956657) 
+SQL FILE TIME: 2018-02-13 09:30:57 
+SQL RUNTIME: 0.16 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home1/ifarooq21/public_html/stagingonline.net/projects/freesupertips 
+ARCHIVE FILE: 20180213_freesupertips_f16facf204cc73c56637180213093040_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	39MB 
+STATS:	Dirs 225 | Files 2,211 
+SQL ADDED: 20180213_freesupertips_f16facf204cc73c56637180213093040_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2436
+    [filename] => /home1/ifarooq21/public_html/stagingonline.net/projects/freesupertips/wp-snapshots/tmp/20180213_freesupertips_f16facf204cc73c56637180213093040_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 16.85MB 
+ARCHIVE RUNTIME: 15.26 sec. 
+MEMORY STACK: 32MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/home1/ifarooq21/public_html/stagingonline.net/projects/freesupertips/wp-snapshots/tmp/20180213_freesupertips_f16facf204cc73c56637180213093040_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 2.82MB 
+Installer File: 444.06KB 
+Archive File: 16.85MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 15.80 sec.
+PEAK PHP MEMORY USED: 35MB
+DONE PROCESSING => 20180213_freesupertips 2018-02-13 9:31 am
+ 
