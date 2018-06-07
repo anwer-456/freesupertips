@@ -88,4 +88,11 @@ if ( !defined('ABSPATH') )
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
 
-// Anwer Khan
+/* git commands
+ls
+git remote add origin https://github.com/anwer-456/freesupertips.git
+git remote -v
+git add .
+git commit -m "3rd Commit"
+git push origin master
+*/
